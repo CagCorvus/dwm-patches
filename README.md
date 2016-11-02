@@ -4,4 +4,4 @@
 Make the colour of the root window title the same as the foreground colour.
 
 # dwm-resize-cursor
-Fix a cursor theme when resizing windows.
+Fix the cursor theme when resizing windows.
