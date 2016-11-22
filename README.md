@@ -1,7 +1,7 @@
-## Patches for dwm
+# Patches for dwm
 
-# dwm-normroottitle
+## dwm-normroottitle
 Make the colour of the root window title the same as the foreground colour.
 
-# dwm-resize-cursor
+## dwm-resize-cursor
 Fix the cursor theme when resizing windows.
